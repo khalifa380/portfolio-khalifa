@@ -17,3 +17,6 @@ This project is fully built using HTML and CSS, and it's designed to present:
 - HTML5
 - CSS3
 - Git & GitHub
+- ## 🌐 Live Website
+[Click here to view my portfolio](https://khalifa380.github.io/portfolio-khalifa/)
+
